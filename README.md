@@ -1,4 +1,1 @@
-###This is an example webpage
-#Header 1
-##Header 2
-###header #
+This is an example webpage for a training based website
