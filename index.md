@@ -1,7 +1,8 @@
-# Introduction to NML Genomics and Bioinformatics Training
+# Introduction to Genomics and Bioinformatics Training
 
+This is an example webpage for a training based website that can be used to share resources externally.
 
-This page provides entry-level bioinformatic tutorials for Long-Read data analysis with particular focus on Oxford Nanopore data. The material was initially created for the *[Long-read, long-reach sequencing workshop](https://cba.anu.edu.au/news-events/long-read-long-reach-sequencing-workshop)* held at the Australian National University, 11-15th of November 2019 but has been extended and will be updated for new courses or whenever I find the time.
+This page provides entry-level bioinformatic tutorials for genomics and bioinformatics created by The National Microbiology Laboratory. 
 
 ## Content
  * [Tutorial Overview](OV.md)
