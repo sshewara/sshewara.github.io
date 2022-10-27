@@ -1,6 +1,9 @@
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-dinky
 
 
 title: NML Genomics and Bioinformatics Training Material and Links
 description: 
+
+# This text will appear in a `<small>` tag in the footer of every page.
+copyright:             © 2022. All rights reserved.
