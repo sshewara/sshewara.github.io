@@ -1,8 +1,5 @@
 
 theme: jekyll-theme-minimal
-gems:
-  - jekyll-octicons
-
 
 title: NML Genomics and Bioinformatics Training Material and Links
 description: This is an example webpage for a training based website that can be used to share resources externally.
