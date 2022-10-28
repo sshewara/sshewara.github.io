@@ -1,41 +1,9 @@
 This page provides entry-level bioinformatic tutorials for genomics and bioinformatics created by The National Microbiology Laboratory, and also links to other publicly available resources.
 
-# Content
- * Resources
- * Suggested syllabus
+## NML Content
+ * [Suggested syllabus](syllabus.md)
  * [Intro](intro.md)
  
- * [Tutorial Overview](OV.md)
- * [Intro](intro.md)
- * [Set-Up](SU.md)
-   * [Create a VirtualBox Environment](SU_VB.md)
-   * [Install Ubuntu in your Virtual machine](SU_U.md)
-   * [Add the Guest Additions to VirtualBox](SU_GA.md)
-   * [Run the install script for tools and packages](SU_I.md)
-   * [Download the tutorial data](SU_D.md)
- * [Basecalling using Guppy](BS_G.md)
- * [Quality control](QC.md)
-   * [FastQC](QC_F.md)
-   * [PycoQC](QC_P.md)
-   * [MinIONQC](QC_M.md)
- * [Read filtering, trimming and adapter removal](FTR.md)
-   * [Porechop](FTR_P.md)
-   * [NanoFilt](FTR_N.md)
- * [Genome Assembly](ASS.md)
-   * [Minimap - Miniasm](ASS_M.md)
-   * [Flye](ASS_F.md)
-   * [Shasta](ASS_S.md)
- * [Consensus Sequences & Error correction](EC.md)
-   * [Racon](ECR_R.md)
-   * [Minipolish](ECR_MI.md)
-   * [Medaka](ECR_ME.md)
-   * [Pilon](ECR_P.md)
- * [Variant Calling](VC.md)
-   * [Variant Calling using Sniffles](VC_S.md)
- * [Assembly Improvements using Bandage](BAN.md)
- * [Appendix](APP.md)
-   * [Frequently Asked Questions](FAQs.md)
-   * [List of Tutorial Software](APP_TOOLS.md) 
-   * [Tutorial Data & Installation Script](APP_DATA.md)
-   * [File Formats](APP_FORM.md)
-   * [Metrics](APP_MET.md)
+ ## Publicly available resources
+ * [Resources](resources.md)
+ 
