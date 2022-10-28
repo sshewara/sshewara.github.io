@@ -3,6 +3,7 @@ This page provides entry-level bioinformatic tutorials for genomics and bioinfor
 # Content
  * Resources
  * Suggested syllabus
+ * [Intro](Intro.md)
  
  * [Tutorial Overview](OV.md)
  * [Intro](Intro.md)
