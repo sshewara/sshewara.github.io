@@ -4,6 +4,7 @@ This page provides entry-level bioinformatic tutorials for genomics and bioinfor
 
 ## Content
  * [Tutorial Overview](OV.md)
+ * [Intro](Intro.md)
  * [Set-Up](SU.md)
    * [Create a VirtualBox Environment](SU_VB.md)
    * [Install Ubuntu in your Virtual machine](SU_U.md)
