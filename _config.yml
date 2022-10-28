@@ -1,5 +1,7 @@
 
 theme: jekyll-theme-minimal
+gems:
+  - jekyll-octicons
 
 
 title: NML Genomics and Bioinformatics Training Material and Links
