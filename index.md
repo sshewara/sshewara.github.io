@@ -4,6 +4,6 @@ This page provides entry-level bioinformatic tutorials for genomics and bioinfor
  * [Suggested syllabus](syllabus.md)
  * [Intro](intro.md)
  
- ## Publicly available resources
+## Publicly available resources
  * [Resources](resources.md)
  
