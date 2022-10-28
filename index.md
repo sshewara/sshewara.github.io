@@ -1,8 +1,9 @@
-# Introduction to Genomics and Bioinformatics Training
+This page provides entry-level bioinformatic tutorials for genomics and bioinformatics created by The National Microbiology Laboratory, and also links to other publicly available resources.
 
-This page provides entry-level bioinformatic tutorials for genomics and bioinformatics created by The National Microbiology Laboratory. 
-
-## Content
+# Content
+ *Resources
+ * More resources
+ 
  * [Tutorial Overview](OV.md)
  * [Intro](Intro.md)
  * [Set-Up](SU.md)
