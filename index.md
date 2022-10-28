@@ -1,8 +1,8 @@
 This page provides entry-level bioinformatic tutorials for genomics and bioinformatics created by The National Microbiology Laboratory, and also links to other publicly available resources.
 
 # Content
- *Resources
- * More resources
+ * Resources
+ * Suggested syllabus
  
  * [Tutorial Overview](OV.md)
  * [Intro](Intro.md)
