@@ -1,7 +1,5 @@
 # Introduction to Genomics and Bioinformatics Training
 
-This is an example webpage for a training based website that can be used to share resources externally.
-
 This page provides entry-level bioinformatic tutorials for genomics and bioinformatics created by The National Microbiology Laboratory. 
 
 ## Content
